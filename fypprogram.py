@@ -4,7 +4,7 @@ import numpy as np
 from scipy.stats import norm
 import openai
 
-api_key = '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'
+api_key = ''
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
